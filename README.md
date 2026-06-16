@@ -43,7 +43,7 @@ Projeto desenvolvido em Java + Spring Boot para demonstrar o gerenciamento e age
 ### 1. Testes de Unidade
 * Isola as camadas de serviço, testando puramente as regras de negócio e validações lógicas.
 
-### 2. Testes de Endpoints HTTP (`TestEndpoint...`)
+### 2. Testes de Endpoints HTTP
 * Simula requisições reais HTTP para validar as respostas de cada controller
 
 ## Requisitos do Sistema
